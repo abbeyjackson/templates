@@ -27,6 +27,11 @@ _None_
 * Storyboards: Added a new `ignoreTargetModule` parameter if you're using storyboards in multiple targets, to avoid issues with the generated code.  
   [Julien Quéré](https://github.com/juli1quere)
   [#36](https://github.com/SwiftGen/templates/pull/36)
+* Allows to set all properties as `public` by using `--param public` on all templates.  
+  [Olivier Halligon](https://github.com/AliSoftware)
+  [#84](https://github.com/SwiftGen/templates/pull/84)
+  [Txai Wieser](https://github.com/txaiwieser)
+  [#81](https://github.com/SwiftGen/templates/pull/81)
 
 ### Internal Changes
 
